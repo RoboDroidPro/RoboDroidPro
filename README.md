@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-:computer: **Android Developer**
-:cross: **Seguidor de Jesus**
-:eyeglasses: **Amador de aprender y diseñar**
-:oncoming_automobile: **Fan de autos eficientes, electricos, y silenciosos**
-:family: **El hijo de unos exelentes padres!**
+:computer: **Android Developer**  
+:dove: **Follower of the PRINCE OF PEACE**  
+:eyeglasses: **Electronics, designing, and progamming enthusiast**  
+:oncoming_automobile: **Interested in efficient, silent, or electric vehicles**  
+:family: **A blessed son of excellent parents!**  
